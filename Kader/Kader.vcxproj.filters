@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Quelldateien">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Kader.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="CFeldSpieler.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="CFuehrung.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="CKader.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="CPerson.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="CSpieler.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="CTorwart.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="CTrainer.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="CVeriein.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="CFeldSpieler.h">
+      <Filter>Quelldateien</Filter>
+    </ClInclude>
+    <ClInclude Include="CFuehrung.h">
+      <Filter>Quelldateien</Filter>
+    </ClInclude>
+    <ClInclude Include="CKader.h">
+      <Filter>Quelldateien</Filter>
+    </ClInclude>
+    <ClInclude Include="CPerson.h">
+      <Filter>Quelldateien</Filter>
+    </ClInclude>
+    <ClInclude Include="CSpieler.h">
+      <Filter>Quelldateien</Filter>
+    </ClInclude>
+    <ClInclude Include="CTorwart.h">
+      <Filter>Quelldateien</Filter>
+    </ClInclude>
+    <ClInclude Include="CTrainer.h">
+      <Filter>Quelldateien</Filter>
+    </ClInclude>
+    <ClInclude Include="CVeriein.h">
+      <Filter>Quelldateien</Filter>
+    </ClInclude>
+    <ClInclude Include="e_aufgabe.h">
+      <Filter>Quelldateien</Filter>
+    </ClInclude>
+    <ClInclude Include="e_position.h">
+      <Filter>Quelldateien</Filter>
+    </ClInclude>
+    <ClInclude Include="e_starkerFuss.h">
+      <Filter>Quelldateien</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
