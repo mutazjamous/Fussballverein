@@ -11,12 +11,7 @@ protected:
     unsigned int alter;
 
 public:
-    void print() {
-
-        cout << name << endl;
-        cout << vorname << endl;
-        cout << alter << endl;
-    }
+    void print();
 
 
 };

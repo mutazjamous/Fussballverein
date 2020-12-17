@@ -11,5 +11,7 @@ bool CVeriein::add(const CKader& ein_arg) {
 }
 
 void CVeriein::print() {
-
+	cout << "----" << endl;
+	cout << "Anzahl Fuehrung" << anzFuehrung  << endl;
+	cout << "----" << endl;
 }
