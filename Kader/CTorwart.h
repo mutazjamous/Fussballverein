@@ -1,5 +1,7 @@
 #include "CSpieler.h"
 #include "CSpieler.cpp"
+#include "CPerson.h"
+#include "CPerson.cpp"
 #include <iostream>
 #include <string>
 using namespace std;

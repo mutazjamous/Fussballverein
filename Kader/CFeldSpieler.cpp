@@ -3,9 +3,9 @@
 
 void CFeldSpieler::print() {
 	cout << "----" << endl;
-	/*cout << "Vorname " << vorname << endl;
+	cout << "Vorname " << vorname << endl;
 	cout << "Nachname " << name << endl;
-	cout << "Alter " << alter << endl;*/
+	cout << "Alter " << alter << endl;
 	cout << "Nummer: " << nummer << endl;
 	cout << "Position: " << position << endl;
 	cout << "Starker Fuss" << starkerFuss << endl;

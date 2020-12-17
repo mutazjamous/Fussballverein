@@ -1,8 +1,9 @@
 #include <iostream>
+#include "CTorwart.h"
 
 int main()
 {
-    std::cout << "Hello World!\n";
+	CTorwart* ctorwart = new CTorwart;
 }
 
 
