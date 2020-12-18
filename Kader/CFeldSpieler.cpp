@@ -23,5 +23,4 @@ CFeldSpieler::CFeldSpieler(string ein_name, string ein_vorname, unsigned int ein
 	alter = ein_alter;*/
 	position = ein_position;
 	nummer = ein_nummer;
-
 }

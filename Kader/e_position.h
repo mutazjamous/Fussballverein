@@ -1,5 +1,5 @@
-enum e_position { 
-
-	torwart, abwehr, mittelfeld, sturm
+enum e_position
+{
+	torwart, abwehr, mittelfeld, sturm 
 };
 

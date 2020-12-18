@@ -1,5 +1,4 @@
 #include "CSpieler.h"
-#include "e_position.h"
 #include "e_starkerFuss.h"
 #include <iostream>
 #include <string>

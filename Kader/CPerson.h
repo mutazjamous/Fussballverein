@@ -2,8 +2,6 @@
 #include <string>
 using namespace std;
 
-
-
 class CPerson {
 protected:
     string name;
@@ -12,6 +10,4 @@ protected:
 
 public:
     void print();
-
-
 };

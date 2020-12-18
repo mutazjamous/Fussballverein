@@ -4,13 +4,12 @@
 #include <string>
 using namespace std;
 
-class CSpieler : CPerson {
+class CSpieler : public CPerson {
 protected:
     e_position position;
     unsigned int nummer;
 
 public:
-
     void print();
 
 };
